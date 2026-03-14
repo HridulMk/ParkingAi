@@ -6,7 +6,7 @@ djangorestframework-simplejwt
 
 gunicorn
 whitenoise
-
+channels
 psycopg2-binary
 Pillow
 
